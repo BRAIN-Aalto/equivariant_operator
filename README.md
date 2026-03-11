@@ -1,4 +1,4 @@
-# Latent Equivariant Operators for Robust Object Recognition: Promise and Challenges
+# Latent Equivariant Operators for Robust Object Recognition: Promises and Challenges
 
 Codebase for experiments on latent equivariant operators for MNIST classification under geometric transformations.
 
