@@ -128,13 +128,12 @@ python knn_yshift.py
 
 ## Citation
 ```bibtex
-@misc{dinh2026shiftop,
-  title={Latent Equivariant Operators for Robust Object Recognition: Promise and Challenges},
-  author={Minh Dinh and Stephane Deny},
-  year={2026},
-  eprint={2602.18406},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2602.18406}
+@inproceedings{
+dinh2026latent,
+title={Latent Equivariant Operators for Robust Object Recognition: Promises and Challenges},
+author={Minh T. Dinh and Stephane Deny},
+booktitle={ICLR 2026 Workshop on Geometry-grounded Representation Learning and Generative Modeling},
+year={2026},
+url={https://openreview.net/forum?id=81gVwLVcXQ}
 }
 ```
